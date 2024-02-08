@@ -52,3 +52,36 @@ body{
     margin-bottom: 10px;
     width: 80%;
 }
+
+/*========= Meals Page =========*/
+
+
+/*=== Meals list ===*/
+
+.meals-list a {
+    text-decoration: none;
+}
+
+.meals-list-items {
+    border: 5px solid #1a1a1a;
+    margin: 10px;
+}
+
+.meals-list-items h1 {
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1a1a;
+    padding-left: 10px;
+}
+
+.meals-list-items i {
+    float: right;
+}
+
+.meals-list-items p {
+    font-size: 15px;
+    font-style: italic;
+    color: #4d4d4d;
+    margin-top: -7px;
+    padding-left: 10px;
+}
